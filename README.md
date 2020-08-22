@@ -1,2 +1,2 @@
 # travello
-Django project
+Django project devolopment
